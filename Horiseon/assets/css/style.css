@@ -24,7 +24,7 @@ header h1 {
 header h1 .seo {
   color: #d9dcd6;
 }
-
+/*header navigation styles start*/
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -46,7 +46,7 @@ header nav ul li a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/*header navigation styles end*/
 p {
   font-size: 16px;
 }
@@ -188,7 +188,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*footer styles start*/
 footer {
   padding: 30px;
   clear: both;
@@ -203,3 +203,4 @@ footer h2 {
 footer p {
   font-size: small;
 }
+/*footer styles end*/
